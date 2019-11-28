@@ -1092,7 +1092,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/errigoiti-argazkia-2000x989.png");
+  background-image: url("../../../assets/images/img-6655-2000x1012.jpg");
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
@@ -1880,7 +1880,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-rFDEc0BmVN .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.8 !important;
 }
 .cid-rFDEc0BmVN .mbr-gallery-title {
   font-size: .9em;
@@ -1901,7 +1901,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
@@ -1953,6 +1953,12 @@ section.lazy-placeholder:after {
   .cid-rFa5h8nZm9 .card:not(.last-child) {
     padding-bottom: 1.5rem;
   }
+}
+.cid-rFa5h8nZm9 .mbr-step-text {
+  color: #ff7f9f;
+}
+.cid-rFa5h8nZm9 .mbr-step-title {
+  color: #ff3366;
 }
 .cid-rF9QUZhe5S {
   padding-top: 90px;
